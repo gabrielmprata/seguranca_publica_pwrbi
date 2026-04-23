@@ -19,3 +19,5 @@ Ocorrencias
 Letalidade Violenta
 >
 Homicídio Doloso
+>
+Total Roubos
