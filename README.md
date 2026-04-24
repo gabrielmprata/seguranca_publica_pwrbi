@@ -33,4 +33,6 @@ Roubo de rua
 Latrocínio
 >
 Estelionato
+>
+Morte por interv. policial
 
