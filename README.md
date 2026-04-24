@@ -38,4 +38,4 @@ Morte por interv. policial
 >
 Apreensao de drogas
 >
-Resumo
+Texto explicativo
