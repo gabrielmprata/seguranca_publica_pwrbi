@@ -37,4 +37,5 @@ Estelionato
 Morte por interv. policial
 >
 Apreensao de drogas
-
+>
+Resumo
