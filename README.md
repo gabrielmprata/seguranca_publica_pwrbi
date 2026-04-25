@@ -16,26 +16,4 @@ Dados Abertos do Instituto de segurança pública (ISP)
 
 Ocorrencias
 >
-Letalidade Violenta
->
-Homicídio Doloso
->
-Total Roubos
->
-Roubo de rua
->
-Roubo veículos
->
-Roubo de Carga
->
-Roubo de rua
->
-Latrocínio
->
-Estelionato
->
-Morte por interv. policial
->
-Apreensao de drogas
->
-Texto explicativo
+Crimes contra a vida
