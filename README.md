@@ -7,6 +7,16 @@ Dados Abertos do Instituto de segurança pública (ISP)
 </p>
 <br><br>
 
+# :radio_button: Objetivo 
+Criar um Dashboard em **Power BI**, para a visualização das informações do anuário de Segurança Pública do Estado do Rio de Janeiro.
+>
+E apresentar analises comparativas, dos principais indicadores de criminalidade e de atividade policial do estado no período de 2003 a 2025.
+>
+As informações contidas nesse estudo foram extraídas dos registros de ocorrências feitos nas delegacias do estado, com as vítimas.
+>
+Os dados apresentados nesse **estudo acadêmico**, tem o objetivo de desenvolver habilidades técnicas, utilizando **dados abertos**. 
+<br><br>
+
 # 🔨 Ferramentas utilizadas
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/><img loading="lazy" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="40" height="40"/>
