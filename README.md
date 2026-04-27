@@ -31,3 +31,5 @@ Crimes contra a vida
 Homicidio
 >
 Link
+>
+Tabelas
