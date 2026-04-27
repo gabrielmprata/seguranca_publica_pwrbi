@@ -28,8 +28,6 @@ Ocorrencias
 >
 Crimes contra a vida
 >
-Tabela de datas
+Homicidio
 >
-Historico
->
-Variacao
+Link
