@@ -7,6 +7,12 @@ Dados Abertos do Instituto de segurança pública (ISP)
 </p>
 <br><br>
 
+# 📊 Overview
+
+This project is a data analytics dashboard focused on public safety in Rio de Janeiro, using official data from the Instituto de Segurança Pública (ISP-RJ).
+
+The goal is to provide actionable insights for decision-making through data visualization, risk indicators, and trend analysis.
+<br><br>
 # :radio_button: Objetivo 
 Criar um Dashboard em **Power BI**, para a visualização das informações do anuário de Segurança Pública do Estado do Rio de Janeiro.
 >
