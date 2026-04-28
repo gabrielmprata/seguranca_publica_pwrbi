@@ -34,12 +34,11 @@ Link
 >
 Tabelas
 >
-Interacoes
+Interacoes OK
 >
 Mapa RJ ???
 >
 Figma UI
->
-Dobrar imagens
+
 
 
