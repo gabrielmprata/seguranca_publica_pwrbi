@@ -18,6 +18,8 @@ Criar um Dashboard em **Power BI**, para a visualização das informações do a
 >
 E apresentar analises comparativas, dos principais indicadores de criminalidade e de atividade policial do estado no período de 2003 a 2025.
 >
+Os dados são provenientes do Instituto de Segurança Pública do Estado do Rio de Janeiro, com séries históricas tratadas e modeladas para análise temporal e geoespacial.
+>
 As informações contidas nesse estudo foram extraídas dos registros de ocorrências feitos nas delegacias do estado, com as vítimas.
 >
 Os dados apresentados nesse **estudo acadêmico**, tem o objetivo de desenvolver habilidades técnicas, utilizando **dados abertos**. 
