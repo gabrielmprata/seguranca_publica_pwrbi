@@ -49,6 +49,8 @@ Mapa RJ ???
 Figma UI
 >
 Alinhamento
+>
+Graficos barra
 
 </br></br>
 # 👨‍💼💻 Author 
