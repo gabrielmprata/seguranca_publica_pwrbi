@@ -47,6 +47,9 @@ Interacoes OK
 Mapa RJ ???
 >
 Figma UI
+>
+Alinhamento
+
 </br></br>
 # 👨‍💼💻 Author 
 Gabriel Prata
