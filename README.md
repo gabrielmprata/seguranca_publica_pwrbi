@@ -20,7 +20,7 @@ E apresentar analises comparativas, dos principais indicadores de criminalidade 
 >
 Os dados são provenientes do Instituto de Segurança Pública do Estado do Rio de Janeiro, com séries históricas tratadas e modeladas para análise temporal e geoespacial.
 >
-As informações contidas nesse estudo foram extraídas dos registros de ocorrências feitos nas delegacias do estado, com as vítimas.
+As informações contidas nesse estudo foram extraídas dos registros de ocorrências lavrados nas delegacias de polícia da Secretaria de Estado da Polícia Civil (SEPOL).
 >
 Os dados apresentados nesse **estudo acadêmico**, tem o objetivo de desenvolver habilidades técnicas, utilizando **dados abertos**. 
 <br><br>
