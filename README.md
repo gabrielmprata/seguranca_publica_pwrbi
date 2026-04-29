@@ -24,6 +24,26 @@ As informações contidas nesse estudo foram extraídas dos registros de ocorrê
 >
 Os dados apresentados nesse **estudo acadêmico**, tem o objetivo de desenvolver habilidades técnicas, utilizando **dados abertos**. 
 <br><br>
+# :floppy_disk: Coleta de Dados
+>
+Os dados foram coletados do sítio do Instituto de segurança pública (ISP), no dia **01/03/2026**.
+<br>
+<img width="260" align="left" height="46" alt="image" src="https://github.com/user-attachments/assets/f4dee793-9320-4e7e-b483-5c9ff109bb03" />
+<br><br>
+>
+**Dataset:** Estatísticas de segurança: série histórica mensal por área de delegacia desde 01/2003.
+>
+https://www.ispdados.rj.gov.br/estatistica.html
+>
+---
+>
+Dataset: Relação das Regiões, Áreas e Circunscrições Integradas de Segurança Pública (Bairros/Distritos, Municípios e Regiões de Governo).
+>
+https://www.ispdados.rj.gov.br/Conteudo.html
+>
+As Circunscrições Integradas de Segurança Pública - CISP, correspondem às áreas territoriais de atuação e responsabilidade conjunta das delegacias distritais da Secretaria de Estado de Polícia Civil (SEPOL) e das companhias integradas da Secretaria de Estado de Polícia Militar (SEPM)
+>
+<br><br>
 
 # 🔨 Ferramentas utilizadas
 
