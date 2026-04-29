@@ -37,7 +37,13 @@ https://www.ispdados.rj.gov.br/estatistica.html
 >
 ---
 >
-Dataset: Relação das Regiões, Áreas e Circunscrições Integradas de Segurança Pública (Bairros/Distritos, Municípios e Regiões de Governo).
+**Dataset:** População Residente - Estudo de Estimativas Populacionais por Município
+>
+https://tabnet.datasus.gov.br/cgi/deftohtm.exe?ibge/cnv/popsvs2024br.def
+>
+---
+>
+**Dataset:** Relação das Regiões, Áreas e Circunscrições Integradas de Segurança Pública (Bairros/Distritos, Municípios e Regiões de Governo).
 >
 https://www.ispdados.rj.gov.br/Conteudo.html
 >
