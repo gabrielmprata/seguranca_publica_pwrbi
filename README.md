@@ -79,6 +79,8 @@ Alinhamento
 Graficos barra
 >
 Taxas estima hist, fazer calculos no Python
+>
+Frota
 
 </br></br>
 # 👨‍💼💻 Author 
