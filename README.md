@@ -78,7 +78,7 @@ Alinhamento
 >
 Graficos barra
 >
-Taxas
+Taxas estima hist
 
 </br></br>
 # 👨‍💼💻 Author 
