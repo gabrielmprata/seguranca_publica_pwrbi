@@ -77,6 +77,8 @@ Figma UI
 Alinhamento
 >
 Graficos barra
+>
+Taxas
 
 </br></br>
 # 👨‍💼💻 Author 
