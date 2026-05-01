@@ -78,7 +78,7 @@ Alinhamento
 >
 Graficos barra
 >
-Taxas estima hist
+Taxas estima hist, fazer calculos no Python
 
 </br></br>
 # 👨‍💼💻 Author 
