@@ -76,7 +76,7 @@ Figma UI
 >
 Alinhamento
 >
-Graficos barra
+Recupera veiculos
 >
 Taxas estima hist, fazer calculos no Python
 >
