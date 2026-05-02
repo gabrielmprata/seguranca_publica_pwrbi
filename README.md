@@ -68,7 +68,7 @@ Titulo
 >
 Tabelas
 >
-Interacoes OK
+Interacoes PENDENTE
 >
 Mapa RJ ???
 >
