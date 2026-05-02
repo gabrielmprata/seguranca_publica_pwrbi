@@ -80,7 +80,7 @@ Graficos barra
 >
 Taxas estima hist, fazer calculos no Python
 >
-Frota
+Frota OK
 >
 Dax valor coluna anterior
 </br></br>
