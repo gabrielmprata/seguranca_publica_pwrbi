@@ -81,7 +81,8 @@ Graficos barra
 Taxas estima hist, fazer calculos no Python
 >
 Frota
-
+>
+Dax valor coluna anterior
 </br></br>
 # 👨‍💼💻 Author 
 Gabriel Prata
