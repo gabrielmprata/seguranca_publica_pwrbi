@@ -76,7 +76,7 @@ Figma UI
 >
 Alinhamento cards
 >
-Recupera veiculos
+Recupera veiculos comparaçao
 >
 Taxas estima hist, fazer calculos no Python
 >
