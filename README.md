@@ -74,7 +74,7 @@ Mapa RJ ???
 >
 Figma UI
 >
-Alinhamento
+Alinhamento cards
 >
 Recupera veiculos
 >
