@@ -62,6 +62,8 @@ Ocorrencias
 >
 Crimes contra a vida
 >
+Ano com variacao, por mes, mapa por risc, mapa por municipio, mapa de calor, tabela com delegacia
+>
 Homicidio
 >
 Titulo
