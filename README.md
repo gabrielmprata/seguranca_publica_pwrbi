@@ -70,7 +70,7 @@ Tabelas com as taxas e buscar ofensores
 >
 Mapa RJ Ok topjson
 >
-Gradiente
+Gradiente de 3 cores
 >
 Figma UI
 >
