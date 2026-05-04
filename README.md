@@ -72,6 +72,8 @@ Tabelas com as taxas e buscar ofensores
 >
 Mapa RJ Ok topjson
 >
+Taxa por municipio
+>
 Gradiente de 3 cores
 >
 Figma UI
