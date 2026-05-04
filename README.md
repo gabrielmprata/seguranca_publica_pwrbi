@@ -78,7 +78,7 @@ Gradiente de 3 cores
 >
 Figma UI
 >
-
+Pareto
 </br></br>
 # 👨‍💼💻 Author 
 Gabriel Prata
