@@ -76,7 +76,7 @@ Cards
 >
 Figma UI sub menu export
 >
-Pareto
+Pareto modificado
 </br></br>
 # 👨‍💼💻 Author 
 Gabriel Prata
