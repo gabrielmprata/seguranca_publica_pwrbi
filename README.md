@@ -72,7 +72,7 @@ Mapa RJ Ok topjson
 >
 Taxa por municipio
 >
-Cards 
+Cards alinhados
 >
 Figma UI sub menu export
 >
