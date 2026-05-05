@@ -74,7 +74,7 @@ Taxa por municipio
 >
 Cards 
 >
-Figma UI sub menu
+Figma UI sub menu export
 >
 Pareto
 </br></br>
