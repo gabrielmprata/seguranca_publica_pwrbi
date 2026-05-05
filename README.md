@@ -62,7 +62,7 @@ Ocorrencias
 >
 Crimes contra a vida
 >
-Ano com variacao, por mes, mapa de calor, tabela com delegacia
+Ano com variacao, por mes, tabela com delegacia
 >
 Homicidio
 >
@@ -74,7 +74,7 @@ Mapa RJ Ok topjson
 >
 Taxa por municipio
 >
-Gradiente de 3 cores
+Cards 
 >
 Figma UI
 >
