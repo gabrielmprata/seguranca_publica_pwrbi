@@ -70,7 +70,7 @@ Taxa por municipio
 >
 Cards alinhados
 >
-Figma UI sub menu atualizado
+Figma UI
 >
 Pareto modificado
 </br></br>
