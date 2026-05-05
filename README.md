@@ -64,7 +64,7 @@ Ano com variacao, por mes, tabela com delegacia
 >
 Homicidio
 >
-Titulo
+Titulo cor branco
 >
 Tabelas com as taxas e buscar ofensores
 >
