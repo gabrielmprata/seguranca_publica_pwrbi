@@ -58,8 +58,6 @@ As Circunscrições Integradas de Segurança Pública - CISP, correspondem às �
 </br>
 # 📈 Indicadores
 
-Ocorrencias
->
 Crimes contra a vida
 >
 Ano com variacao, por mes, tabela com delegacia
