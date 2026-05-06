@@ -64,6 +64,8 @@ Crimes contra o patrimonio
 >
 Total -> veiculos -> carga -> rua -> estelionato
 >
+Taxas roubo
+>
 Titulo cor branco
 >
 Tabelas com as taxas e buscar ofensores
