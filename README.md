@@ -62,6 +62,8 @@ Crimes contra a vida
 >
 Crimes contra o patrimonio
 >
+Total -> veiculos -> carga -> rua -> estelionato
+>
 Titulo cor branco
 >
 Tabelas com as taxas e buscar ofensores
