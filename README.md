@@ -60,6 +60,8 @@ As Circunscrições Integradas de Segurança Pública - CISP, correspondem às �
 
 Crimes contra a vida
 >
+Crimes contra o patrimonio
+>
 Titulo cor branco
 >
 Tabelas com as taxas e buscar ofensores
