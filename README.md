@@ -79,6 +79,8 @@ Cards alinhados
 Figma UI patrimonio
 >
 Pareto mudar regiao para RISP?
+>
+FURTOS ds_compara, municipio taxa e regiao cisp
 </br></br>
 # 👨‍💼💻 Author 
 Gabriel Prata
