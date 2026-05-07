@@ -64,7 +64,7 @@ Crimes contra o patrimonio
 >
 Total -> veiculosxx -> carga -> rua -> estelionato
 >
-Taxas roubo
+Taxas roubo + furto
 >
 Titulo cor branco
 >
