@@ -78,7 +78,7 @@ Cards alinhados
 >
 Figma UI patrimonio
 >
-Pareto modificado
+Pareto mudar regiao para RISP?
 </br></br>
 # 👨‍💼💻 Author 
 Gabriel Prata
