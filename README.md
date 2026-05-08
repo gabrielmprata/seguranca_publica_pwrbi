@@ -70,7 +70,7 @@ Tabelas com as taxas e buscar ofensores
 >
 Mapa RJ Ok topjson
 >
-Taxa por municipio var
+Taxa por municipio var ok
 >
 Cards alinhados
 >
