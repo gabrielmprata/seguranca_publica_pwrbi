@@ -62,8 +62,6 @@ Crimes contra a vida
 >
 Crimes contra o patrimonio
 >
-Total -> veiculosxx -> carga -> rua -> estelionato
->
 Taxas roubo + furto + risp + taxa hab
 >
 Titulo cor branco
