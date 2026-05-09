@@ -62,8 +62,6 @@ Crimes contra a vida
 >
 Crimes contra o patrimonio
 >
-Taxas roubo + furto + risp + taxa hab
->
 Titulo cor branco
 >
 Tabelas com as taxas e buscar ofensores
