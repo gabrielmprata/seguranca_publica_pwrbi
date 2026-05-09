@@ -72,7 +72,7 @@ Mapa RJ Ok topjson
 >
 Taxa por municipio var ok
 >
-Cards alinhados furto
+Cards alinhados
 >
 Figma UI patrimonio
 >
