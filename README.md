@@ -62,7 +62,7 @@ Crimes contra a vida
 >
 Crimes contra o patrimonio
 >
-Estelionato cards alinhadps
+Estelionato mapas
 >
 Titulo cor branco
 >
