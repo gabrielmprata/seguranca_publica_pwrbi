@@ -66,7 +66,7 @@ Atividade Policial mapas armas
 >
 Titulo cor branco
 >
-Tabelas com as taxas e buscar ofensores
+Tabelas com as taxas e buscar ofensores DAX
 >
 Mapa RJ Ok topjson
 >
