@@ -74,7 +74,7 @@ Taxa por municipio
 >
 Cards alinhados
 >
-Figma UI patrimonio
+Figma UI capa
 >
 Pareto mudar regiao para RISP?
 >
