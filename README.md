@@ -118,6 +118,11 @@ O projeto utiliza modelagem dimensional no padrão **Star Schema**, garantindo:
 * escalabilidade;
 * facilidade analítica.
 </br></br>
+# 🔮 Próximos Passos
+
+* Implementação de modelos preditivos (Forecast/ ARIMA / Prophet)
+* Atualização automatizada dos dados
+</br></br>
 # 👨‍💼💻 Author 
 Gabriel Prata
 
