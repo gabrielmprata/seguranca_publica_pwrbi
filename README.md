@@ -5,6 +5,13 @@ Dados Abertos do Instituto de segurança pública (ISP)
 
 <img src="http://img.shields.io/static/v1?label=vers%C3%A3o%20do%20projeto&message=v2.9.0&color=red&style=for-the-badge&logo=github"/>
 </p>
+
+## 🖥️ Demo App
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dash-anatel-reclamacoes-qualidade.streamlit.app/)
+
+
+<br>
 <br><br>
 
 # 🧠 Sobre o Projeto
