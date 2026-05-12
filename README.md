@@ -67,6 +67,16 @@ Atividade Policial mapas armas
 Taxa por municipio
 >
 </br></br>
+
+# 📌 Diferenciais do Projeto
+
+✔ Dados públicos oficiais
+✔ Modelagem dimensional profissional
+✔ Design orientado à UX
+✔ Indicadores analíticos avançados
+✔ Análise geoespacial integrada
+✔ Estrutura escalável para expansão futura
+</br></br>
 # 👨‍💼💻 Author 
 Gabriel Prata
 
