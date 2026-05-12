@@ -10,8 +10,6 @@ Dados Abertos do Instituto de segurança pública (ISP)
 
 [![PowerBI App](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiZTcwNWI0NzUtZmNkNi00ZGQzLTkxYzAtMjIxNzBkYzBjOGRmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
-
-<br>
 <br><br>
 
 # 🧠 Sobre o Projeto
@@ -81,17 +79,17 @@ Atividade Policial
 
 ## 🚨 Monitoramento de KPIs
 
-* Total de Crimes
-* Taxa por 100 mil habitantes
-* Variação percentual mensal
-* Índice de risco criminal
+* Total de Crimes por categoria e tipo
+* Taxa por 10 mil habitantes
+* Variação percentual mensal e anual
+
 
 ---
 
 ## 🗺️ Análise Geoespacial
 
 * Distribuição de crimes por município
-* Heatmap de regiões críticas
+* Distribuição de crimes por RISP (Mapa personalizado)
 * Identificação visual de áreas prioritárias
 
 ---
@@ -100,7 +98,7 @@ Atividade Policial
 
 * Evolução histórica da criminalidade
 * Tendências de crescimento e redução
-* Média móvel para suavização de séries
+
   
 </br></br>
 # 📌 Diferenciais do Projeto
