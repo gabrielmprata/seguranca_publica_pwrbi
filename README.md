@@ -8,7 +8,7 @@ Dados Abertos do Instituto de segurança pública (ISP)
 
 ## 🖥️ Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dash-anatel-reclamacoes-qualidade.streamlit.app/)
+[![PowerBI App](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiZTcwNWI0NzUtZmNkNi00ZGQzLTkxYzAtMjIxNzBkYzBjOGRmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
 
 <br>
