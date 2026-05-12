@@ -57,24 +57,15 @@ As Circunscrições Integradas de Segurança Pública - CISP, correspondem às �
 </br>
 </br>
 # 📈 Indicadores
-
+>
 Crimes contra a vida
 >
 Crimes contra o patrimonio
 >
 Atividade Policial mapas armas
 >
-Mapa RJ Ok topjson
->
 Taxa por municipio
 >
-Cards alinhados
->
-Figma UI capa
->
-Pareto mudar regiao para RISP?
->
-FURTOS ds_compara, municipio taxa e regiao cisp
 </br></br>
 # 👨‍💼💻 Author 
 Gabriel Prata
