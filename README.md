@@ -64,10 +64,6 @@ Crimes contra o patrimonio
 >
 Atividade Policial mapas armas
 >
-Titulo cor branco
->
-Tabelas com as taxas e buscar ofensores DAX
->
 Mapa RJ Ok topjson
 >
 Taxa por municipio
