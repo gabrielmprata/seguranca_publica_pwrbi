@@ -110,6 +110,14 @@ Atividade Policial
 >
 ✔ Estrutura escalável para expansão futura
 </br></br>
+# 🧱 Arquitetura de Dados
+
+O projeto utiliza modelagem dimensional no padrão **Star Schema**, garantindo:
+
+* melhor performance;
+* escalabilidade;
+* facilidade analítica.
+</br></br>
 # 👨‍💼💻 Author 
 Gabriel Prata
 
