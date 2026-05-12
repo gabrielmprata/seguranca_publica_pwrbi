@@ -67,19 +67,47 @@ Crimes contra a vida
 >
 Crimes contra o patrimonio
 >
-Atividade Policial mapas armas
->
-Taxa por municipio
+Atividade Policial
 >
 </br></br>
+# 📊 Principais Funcionalidades
 
+## 🚨 Monitoramento de KPIs
+
+* Total de Crimes
+* Taxa por 100 mil habitantes
+* Variação percentual mensal
+* Índice de risco criminal
+
+---
+
+## 🗺️ Análise Geoespacial
+
+* Distribuição de crimes por município
+* Heatmap de regiões críticas
+* Identificação visual de áreas prioritárias
+
+---
+
+## 📈 Análise Temporal
+
+* Evolução histórica da criminalidade
+* Tendências de crescimento e redução
+* Média móvel para suavização de séries
+  
+</br></br>
 # 📌 Diferenciais do Projeto
 
 ✔ Dados públicos oficiais
+>
 ✔ Modelagem dimensional profissional
+>
 ✔ Design orientado à UX
+>
 ✔ Indicadores analíticos avançados
+>
 ✔ Análise geoespacial integrada
+>
 ✔ Estrutura escalável para expansão futura
 </br></br>
 # 👨‍💼💻 Author 
