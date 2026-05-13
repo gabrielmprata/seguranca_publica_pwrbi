@@ -72,13 +72,11 @@ Acesse o designde interface no Figma!
 <a href="https://www.figma.com/design/eu7X1863DV4e3wshDA9VBX/Dash_Seguranca?m=auto&t=Kr247IkcIUXa27xq-6"><img src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" width="40" height="40" alt="Acesse"></a>
 </br></br>
 # 📈 Indicadores
->
-Crimes contra a vida
->
-Crimes contra o patrimonio
->
-Atividade Policial
->
+
+* Crimes contra a vida
+* Crimes contra o patrimonio
+* Atividade Policial
+
 </br></br>
 # 📊 Principais Funcionalidades
 
