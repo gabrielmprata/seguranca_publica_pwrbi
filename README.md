@@ -63,7 +63,7 @@ As Circunscrições Integradas de Segurança Pública - CISP, correspondem às �
 
 # :recycle: Pré-processamento
 >
-[![Colab Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gabrielmprata/acidentes_transito/blob/main/Acidentes_Rodoviarios_PreProc.ipynb)
+[![Colab Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gabrielmprata/seguranca_publica_pwrbi/blob/main/PREP_anuario_seguranca_publica_pwr_bi.ipynb)
 >
 Esta é a etapa mais demorada e trabalhosa do projeto de ciência de dados, e estima-se que consuma pelo menos 70% do tempo total do projeto.
 >
