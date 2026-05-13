@@ -67,13 +67,10 @@ As Circunscrições Integradas de Segurança Pública - CISP, correspondem às �
 </br>
 </br>
 # 🎨 UI/UX
-<img loading="lazy" src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" width="40" height="40"/>
-
-
-[![PowerBI App](https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000)](https://app.powerbi.com/view?r=eyJrIjoiZTcwNWI0NzUtZmNkNi00ZGQzLTkxYzAtMjIxNzBkYzBjOGRmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
-
-
-</br>
+Acesse o designde interface no Figma!
+>
+<a href="https://www.figma.com/design/eu7X1863DV4e3wshDA9VBX/Dash_Seguranca?m=auto&t=Kr247IkcIUXa27xq-6"><img src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" width="40" height="40" alt="Acesse"></a>
+</br></br>
 # 📈 Indicadores
 >
 Crimes contra a vida
