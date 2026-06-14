@@ -109,15 +109,11 @@ Acesse o design de interface no Figma!
 * Variação percentual mensal e anual
 
 
----
-
 ## 🗺️ Análise Geoespacial
 
 * Distribuição de crimes por município
 * Distribuição de crimes por RISP (Mapa personalizado)
 * Identificação visual de áreas prioritárias
-
----
 
 ## 📈 Análise Temporal
 
