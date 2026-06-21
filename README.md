@@ -152,5 +152,7 @@ O projeto utiliza modelagem dimensional no padrão **Star Schema**, garantindo:
 # 👨‍💼💻 Author 
 Gabriel Prata
 
+Built with Data, Analytics & Coffee
+
 
 
